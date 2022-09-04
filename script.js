@@ -1,0 +1,12 @@
+var x="Whitehat ";
+var y="Jr.";
+ var z=x.concat(y);
+ console.log(z);
+ var a=2;
+ var b=64;
+ var c=Math.pow(a,b);
+ console.log(c);
+ var d=19;
+ var e=12;
+var f= d * e;
+ console.log(f);

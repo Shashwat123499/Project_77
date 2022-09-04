@@ -1,0 +1,15 @@
+h1 {
+    text-align:center;
+    border-bottom-color: orange;
+    color: blue;
+    border-bottom-style: double;
+    border-bottom-width: 4px;
+}
+
+p {
+    text-align: left;
+    color: orange;
+    border-color: blue;
+    border-width: 2px;
+    border-style:outset;
+}
